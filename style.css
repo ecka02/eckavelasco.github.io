@@ -1,0 +1,254 @@
+.row.align-items-start{
+	background:#E4F787;
+	padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.nav-link.active{
+	background: #FFFDD0; ;
+	border-radius: 15px;
+	color: black;
+}
+
+.nav-link:hover,
+.nav-link.active{
+	background:#FFFDD0 ;
+	border-radius: 18px;
+	color: black;
+}
+
+.nav-link{
+	color: gray;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+
+#brand{
+	font-size: 25px;
+}
+
+
+/*--------------------------------------------------------------------*/
+
+#imgj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+
+}
+
+
+footer{
+  padding-top: 40px;
+  border-top: solid grey 1px;
+  margin-left: 15px;
+  margin-right: 15px;
+
+  
+}
+
+.navigation-clean{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+
+#cpyrt{
+  font-size: 14px;
+
+}
+
+#icons{
+  padding-left: 30%;
+}
+
+/*i{
+  padding-right: 8px;
+  color: black;
+}*/
+
+#footerinfo{
+  font-size: 18px;
+}
+
+#intro{
+  font-size: 115px;
+  padding-top: 55px;
+}
+
+
+#subint{
+  font-size: 15px;
+  padding-right: 20px;
+
+}
+
+#btnaboutm{
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+#btnaboutm:hover{
+	font-size: 15px;
+  border-radius: 20px;
+  color: gray;
+
+}
+
+#about{
+	font-size: 35px;
+	color: black;
+}
+#aboutp{
+	text-align: justify;
+}
+
+#boutc{
+	padding-top: 100px;
+	padding-bottom: 60px;
+
+}
+
+#imgp{
+	padding-top: 40px;
+	padding-bottom: 48px;
+	background: rgba(0,0,0,.1);
+}
+
+#bg{
+	background: url(e.png);
+}
+
+#pic{
+	width: 70%;
+	height: 70%;
+	/*align-content: center;*/
+
+}
+#projtitle{
+	font-size: 17px;
+	padding-left: 12px;
+	padding-top: 15px;
+
+}
+
+#projs{
+	padding-top: 75px;
+	padding-bottom: 35px;
+}
+
+#resume{
+	padding-top: 75px;
+	padding-bottom: 35px;
+}
+
+#year{
+	font-size: 15px;
+}
+
+#stre{
+	padding-top: 35px;
+	border-top: solid grey 1px;
+	padding-bottom: 25px;
+	background: rgba(0,0,0,.1);
+}
+
+#what{
+	padding-top:20px;
+	border-top: solid grey 1px;
+	background: rgba(0,0,0,.1);
+
+}
+
+#ed{
+	padding-bottom: 24px;
+	background: rgba(0,0,0,.1);
+	padding-top: 25px;
+	border-top: solid grey 1px;
+}
+
+
+/*--------------------------------------
+*/
+#modal{
+	display: none;
+	position: fixed;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(0,0,0,.6);
+	z-index: 99;
+}
+
+
+/*#box1*/ .thumbnails{
+	width: 75%;
+	height: 70%;
+	cursor: pointer;
+	padding-left: 65px;
+}
+
+
+
+/*#box1 */
+
+#modal-box{
+	display: none;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(0,0,0,.9);
+	z-index: 100;
+
+}
+
+/*#box1 */
+
+#modal-box span{
+	margin:10px;
+	font-size: 2em;
+	float: right;
+	color: #dbdbdb;
+	cursor: pointer;
+
+}
+
+/*#box1 
+
+*/
+#viewer{
+	position: absolute;
+	height: 70%;
+	width: auto;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+#navi1{
+	padding-right: 50px;
+	padding-left: 35px;
+}
+
+#obd{
+	padding-top: 15px;
+	padding-bottom: 16px;
+	padding-left: 15px;
+	background: rgba(0,0,0,.6);
+	color: wheat;
+	border-radius: 20px;
+}
+
+#suz1{
+	padding-top: 15px;
+	padding-bottom: 16px;
+	padding-left: 15px;
+	background: rgba(0,0,0,.6);
+	color: wheat;
+	border-radius: 20px;
+
+}
